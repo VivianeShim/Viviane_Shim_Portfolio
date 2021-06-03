@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Viviane Shim - Portfolio
 
-You can use the [editor on GitHub](https://github.com/VivianeShim/Viviane_Shim_Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# [Project 1:  Sales analysis in Asia Pacific Market: Project Overview](https://github.com/VivianeShim/Profit_in_Asia_Pacific_Market)
+*	The purpose of creating story and dashboards was to answer the research question: the Asia Pacific has the highest sales worldwide but the lowest profit margin. How can we increase the profit margin in the Asia Pacific market?
+*	Analyzed dataset on Tableau
+*	Created tableau dashboard and stories and published online to share
+*	Learned how to connect to different data sources such as Excel and Google Sheets
+*	Created calculated fields, including developing IF else Statement.
+*	Created sets, hierarchies, and groups.
+*	Created parameters
+*	Understood how join works 
+* Exploratory and Explanatory analysis
 
-### Markdown
+![](/images/Asia%20Pacific%20Market%20Analysis%201.jpg)
+![](/images/Asia%20Pacific%20Market%20Analysis%202.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# [Project 2:  Video Game Sales](https://github.com/VivianeShim/Video_Game_Sales)
+*	Analyzed video game dataset in tableau.
+*	Data cleaning and feature engineering on Jupyter Notebook
+*	Improved root mean square error from 0.63 to 0.54 using Azure Machine Learning
 
-```markdown
-Syntax highlighted code block
+![](/images/Video%20Game%20Sales%201.jpg)
+![](/images/Video%20Game%20Sales%202.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+# [Project 3:  Fraud Detection](https://github.com/VivianeShim/Fraud_Detection)
+*	Built machine learning models to predict the probability that online transaction is fraudulent
+*	Cleaned and emerged two dataframes
+*	Handled large and imbalanced datasets
+*	Understood how hot encoding works
+*	Used lightGBM model with stratified kfold to increase AUC score up to 0.93 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VivianeShim/Viviane_Shim_Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![](/images/Fraud%20Detection%200.jpg)
+![](/images/Fraud%20Detection%201.jpg)
