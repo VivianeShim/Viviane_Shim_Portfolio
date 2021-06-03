@@ -1,9 +1,6 @@
 # Viviane_Shim_Portfolio
 
 
-# Viviane Shim - Portfolio
-
-
 # [Project 1:  Sales analysis in Asia Pacific Market: Project Overview](https://github.com/VivianeShim/Profit_in_Asia_Pacific_Market)
 *	The purpose of creating story and dashboards was to answer the research question: the Asia Pacific has the highest sales worldwide but the lowest profit margin. How can we increase the profit margin in the Asia Pacific market?
 *	Analyzed dataset on Tableau
