@@ -12,9 +12,6 @@
 *	Understood how join works 
 * Exploratory and Explanatory analysis
 
-<img src="/images/Asia%20Pacific%20Market%20Analysis%201.jpg" width="700" height="700">
-
-
 ![Asia Pacific Market Analysis 1](https://user-images.githubusercontent.com/49568184/120727412-7ddb3580-c4a8-11eb-9901-db9eda5610a7.jpg)
 ![Asia Pacific Market Analysis 2](https://user-images.githubusercontent.com/49568184/120727414-7ddb3580-c4a8-11eb-841b-ce1fe44e2568.jpg)
 
