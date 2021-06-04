@@ -12,16 +12,16 @@
 *	Understood how join works 
 * Exploratory and Explanatory analysis
 
-![](/images/Asia%20Pacific%20Market%20Analysis%201.JPG)
-![](/images/Asia%20Pacific%20Market%20Analysis%202.JPG)
+![](/images/Asia%20Pacific%20Market%20Analysis%201.jpg)
+![](/images/Asia%20Pacific%20Market%20Analysis%202.jpg)
 
 # [Project 2:  Video Game Sales](https://github.com/VivianeShim/Video_Game_Sales)
 *	Analyzed video game dataset in tableau.
 *	Data cleaning and feature engineering on Jupyter Notebook
 *	Improved root mean square error from 0.63 to 0.54 using Azure Machine Learning
 
-![](/images/Video%20Game%20Sales%201.JPG)
-![](/images/Video%20Game%20Sales%202.JPG)
+![](/images/Video%20Game%20Sales%201.jpg)
+![](/images/Video%20Game%20Sales%202.jpg)
 
 # [Project 3:  Fraud Detection](https://github.com/VivianeShim/Fraud_Detection)
 *	Built machine learning models to predict the probability that online transaction is fraudulent
@@ -30,5 +30,5 @@
 *	Understood how hot encoding works
 *	Used lightGBM model with stratified kfold to increase AUC score up to 0.93 
 
-![](/images/Fraud%20Detection%200.JPG)
-![](/images/Asia%20Pacific%20Market%20Analysis%202.JPG)
+![](/images/Fraud%20Detection%200.jpg)
+![](/images/Asia%20Pacific%20Market%20Analysis%202.jpg)
