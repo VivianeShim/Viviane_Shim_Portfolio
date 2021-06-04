@@ -12,7 +12,7 @@
 *	Understood how join works 
 * Exploratory and Explanatory analysis
 
-<img src="https://github.com/VivianeShim/Viviane_Shim_Portfolio/blob/main/images/Asia%20Pacific%20Market%20Analysis%201.jpg" width="500" height="500" />
+<img src="https://github.com/VivianeShim/Viviane_Shim_Portfolio/blob/main/images/Asia%20Pacific%20Market%20Analysis%201.jpg" width="700" height="700"></div>
 ![](/images/Asia%20Pacific%20Market%20Analysis%202.jpg)
 
 # [Project 2:  Video Game Sales](https://github.com/VivianeShim/Video_Game_Sales)
