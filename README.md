@@ -12,16 +12,17 @@
 *	Understood how join works 
 * Exploratory and Explanatory analysis
 
-![](/images/Asia%20Pacific%20Market%20Analysis%201.jpg)
-![](/images/Asia%20Pacific%20Market%20Analysis%202.jpg)
+![Asia Pacific Market Analysis 1](https://user-images.githubusercontent.com/49568184/120727412-7ddb3580-c4a8-11eb-9901-db9eda5610a7.jpg)
+![Asia Pacific Market Analysis 2](https://user-images.githubusercontent.com/49568184/120727414-7ddb3580-c4a8-11eb-841b-ce1fe44e2568.jpg)
 
 # [Project 2:  Video Game Sales](https://github.com/VivianeShim/Video_Game_Sales)
 *	Analyzed video game dataset in tableau.
 *	Data cleaning and feature engineering on Jupyter Notebook
 *	Improved root mean square error from 0.63 to 0.54 using Azure Machine Learning
 
-![](/images/Video%20Game%20Sales%201.jpg)
-![](/images/Video%20Game%20Sales%202.jpg)
+![Video Game Sales 1](https://user-images.githubusercontent.com/49568184/120727417-7e73cc00-c4a8-11eb-966f-a80a63ace7d9.jpg)
+![Video Game Sales 2](https://user-images.githubusercontent.com/49568184/120727411-7d429f00-c4a8-11eb-9c62-0296aaa4751c.jpg)
+
 
 # [Project 3:  Fraud Detection](https://github.com/VivianeShim/Fraud_Detection)
 *	Built machine learning models to predict the probability that online transaction is fraudulent
@@ -30,5 +31,5 @@
 *	Understood how hot encoding works
 *	Used lightGBM model with stratified kfold to increase AUC score up to 0.93 
 
-![](/images/Fraud%20Detection%200.jpg)
-![](/images/Asia%20Pacific%20Market%20Analysis%202.jpg)
+![Fraud Detection 0](https://user-images.githubusercontent.com/49568184/120727415-7ddb3580-c4a8-11eb-9771-4377ec09decc.jpg)
+![Fraud Detection 1](https://user-images.githubusercontent.com/49568184/120727416-7e73cc00-c4a8-11eb-9a64-7e9fdc581283.jpg)
