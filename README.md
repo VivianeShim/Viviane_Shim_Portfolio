@@ -12,8 +12,8 @@
 *	Understood how join works 
 * Exploratory and Explanatory analysis
 
-![first-image](/images/Asia%20Pacific%20Market%20Analysis%201.JPG)
-![second-image](/images/Asia%20Pacific%20Market%20Analysis%202.JPG)
+![](/images/Asia%20Pacific%20Market%20Analysis%201.JPG)
+![](/images/Asia%20Pacific%20Market%20Analysis%202.JPG)
 
 # [Project 2:  Video Game Sales](https://github.com/VivianeShim/Video_Game_Sales)
 *	Analyzed video game dataset in tableau.
